@@ -8,6 +8,7 @@ Young and enthusiast person with great management abilities, making a carrer as 
 
 ## My Tech Stack!
 
+<table>
 <tr display= "flex"->
     <td><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" height="100" alt="HTML5"></td>
     <td><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/css3.svg" height="200" alt="CSS3"></td>
@@ -26,3 +27,4 @@ Young and enthusiast person with great management abilities, making a carrer as 
     <td><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" height="200" alt="Heroku"></td>
     <td><img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" height="200" alt="Bootstrap"></td>
  </tr>
+</table>
