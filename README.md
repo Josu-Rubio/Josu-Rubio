@@ -1,16 +1,28 @@
-### Hi there 👋
+# Josué Moreira Rubio
 
-<!--
-**Josu-Rubio/Josu-Rubio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## _Full Stack Web Developer_
 
-Here are some ideas to get you started:
+[![Web](https://img.shields.io/badge/PersonalWeb-green.svg?&style=for-the-badge&logo=linktree&logoColor=white&style=plastic)](http://cv.josuerubio.com/) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&style=plastic)](https://www.linkedin.com/in/josue-rubio/) [![MailMe](https://img.shields.io/badge/EmailMe-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white&style=plastic)](mailto:josu_mr@hotmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Young and enthusiast person with great management abilities, making a carrer as a Full Stack Web Developer.
+
+## My Tech Stack!
+
+<tr display= "flex"->
+    <td><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" height="100" alt="HTML5"></td>
+    <td><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/css3.svg" height="200" alt="CSS3"></td>
+    <td><img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" height="200" alt="JavaScript"></td>
+    <td><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" height="200" alt="React"></td>
+    <td><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" height="200" alt="node.js"></td>
+    <td><img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" height="200" alt="Express.js"></td>
+    <td><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/redux.svg" height="200" alt="Redux"></td>
+    <td><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" height="200" alt="MongoDB"></td>
+    <td><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" height="200" alt="MySQL"></td>
+    <td><img src="hhttps://www.vectorlogo.zone/logos/php/php-icon.svg" height="200" alt="PHP"></td>
+    <td><img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" height="200" alt="Wordpress"></td>
+    <td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="200" alt="Git"></td>
+    <td><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" height="200" alt="Docker"></td>
+    <td><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" height="200" alt="AWS"></td>
+    <td><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" height="200" alt="Heroku"></td>
+    <td><img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" height="200" alt="Bootstrap"></td>
+ </tr>
