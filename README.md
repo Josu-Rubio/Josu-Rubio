@@ -16,14 +16,13 @@ Young and enthusiast person with great management abilities, making a carrer as 
     <td><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" height="100" alt="React"></td>
     <td><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" height="100" alt="node.js"></td>
     <td><img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" height="100" alt="Express.js"></td>
-    </tr><tr>
     <td><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/redux.svg" height="100" alt="Redux"></td>
     <td><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" height="100" alt="MongoDB"></td>
+    </tr><tr>
     <td><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" height="100" alt="MySQL"></td>
     <td><img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" height="100" alt="PHP"></td>
     <td><img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" height="100" alt="Wordpress"></td>
     <td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="100" alt="Git"></td>
-     </tr><tr>
     <td><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" height="100" alt="Docker"></td>
     <td><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" height="100" alt="AWS"></td>
     <td><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" height="100" alt="Heroku"></td>
