@@ -44,22 +44,22 @@ Young and enthusiast person with great management abilities, making a carrer as 
     <tr>
         <td>
             <a href="http://cv.josuerubio.com/">
-                <img src="https://drive.google.com/file/d/1SZWUJrKl1CsTVTnxHb7JBUIF7CknMatB/view?usp=sharing" width="200">
+                <img src="https://i.postimg.cc/Cx6JL9KL/josurubio-web.png" width="200">
             </a>
         </td>
         <td>
             <a href="https://dnd-bazar.herokuapp.com/">
-                <img src="https://drive.google.com/file/d/1fji5LT5ct6lWN5cIPx1YQQT6NAH3eq63/view?usp=sharing" width="200">
+                <img src="https://i.postimg.cc/1znBgMg0/dndbazar-web.png" width="200">
             </a>
         </td>           
         <td>
             <a href="http://info.cristinamonper.es/">
-                <img src="https://drive.google.com/file/d/1lm4oIhk5Zay-IjEe_ic3nhKSleuBZl_I/view?usp=sharing" width="200">
+                <img src="https://i.postimg.cc/cHfchHBr/crismoner-web.png" width="200">
             </a>
         </td>
         <td>
             <a href="https://wordofsteel.com/">
-                <img src="https://drive.google.com/file/d/1hqhXinqTTdVZp9-m3k-vmiSgL0N-Y_AQ/view?usp=sharing" width="200">
+                <img src="https://i.postimg.cc/pdwZK88w/wordofsteel-web.png" width="200">
             </a>
         </td>                  
     </tr>
