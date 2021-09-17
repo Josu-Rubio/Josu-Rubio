@@ -10,22 +10,57 @@ Young and enthusiast person with great management abilities, making a carrer as 
 
 <table>
 <tr display= "flex"->
-    <td><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" height="100" alt="HTML5"></td>
-    <td><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/css3.svg" height="100" alt="CSS3"></td>
-    <td><img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" height="100" alt="JavaScript"></td>
-    <td><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" height="100" alt="React"></td>
-    <td><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" height="100" alt="node.js"></td>
-    <td><img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" height="100" alt="Express.js"></td>
-    <td><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/redux.svg" height="100" alt="Redux"></td>
-    <td><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" height="100" alt="MongoDB"></td>
+    <td><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" height="50" alt="HTML5"></td>
+    <td><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/css3.svg" height="50" alt="CSS3"></td>
+    <td><img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" height="50" alt="JavaScript"></td>
+    <td><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" height="50" alt="React"></td>
+    <td><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" height="50" alt="node.js"></td>
+    <td><img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" height="50" alt="Express.js"></td>
+    <td><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/redux.svg" height="50" alt="Redux"></td>
+    <td><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" height="50" alt="MongoDB"></td>
     </tr><tr>
-    <td><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" height="100" alt="MySQL"></td>
-    <td><img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" height="100" alt="PHP"></td>
-    <td><img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" height="100" alt="Wordpress"></td>
-    <td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="100" alt="Git"></td>
-    <td><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" height="100" alt="Docker"></td>
-    <td><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" height="100" alt="AWS"></td>
-    <td><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" height="100" alt="Heroku"></td>
-    <td><img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" height="100" alt="Bootstrap"></td>
+    <td><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" height="50" alt="MySQL"></td>
+    <td><img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" height="50" alt="PHP"></td>
+    <td><img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" height="50" alt="Wordpress"></td>
+    <td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="50" alt="Git"></td>
+    <td><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" height="50" alt="Docker"></td>
+    <td><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" height="50" alt="AWS"></td>
+    <td><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" height="50" alt="Heroku"></td>
+    <td><img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" height="50" alt="Bootstrap"></td>
  </tr>
+</table>
+
+<h2>Some of my latest projects</h2>
+
+<table>
+    <thead align="center">
+        <tr>
+            <td>CV Web</td>
+            <td>D&D Bazar</td>           
+            <td>Actress Web</td>
+            <td>Word Of Steel</td>
+        </tr>
+    </thead>
+    <tr>
+        <td>
+            <a href="http://cv.josuerubio.com/">
+                <img src="https://drive.google.com/file/d/1SZWUJrKl1CsTVTnxHb7JBUIF7CknMatB/view?usp=sharing" width="200">
+            </a>
+        </td>
+        <td>
+            <a href="https://dnd-bazar.herokuapp.com/">
+                <img src="https://drive.google.com/file/d/1fji5LT5ct6lWN5cIPx1YQQT6NAH3eq63/view?usp=sharing" width="200">
+            </a>
+        </td>           
+        <td>
+            <a href="http://info.cristinamonper.es/">
+                <img src="https://drive.google.com/file/d/1lm4oIhk5Zay-IjEe_ic3nhKSleuBZl_I/view?usp=sharing" width="200">
+            </a>
+        </td>
+        <td>
+            <a href="https://wordofsteel.com/">
+                <img src="https://drive.google.com/file/d/1hqhXinqTTdVZp9-m3k-vmiSgL0N-Y_AQ/view?usp=sharing" width="200">
+            </a>
+        </td>                  
+    </tr>
 </table>
