@@ -43,22 +43,22 @@ Young and enthusiast person with great management abilities, making a carrer as 
     </thead>
     <tr>
         <td>
-            <a target="_blank" href="http://cv.josuerubio.com/">
+            <a href="http://cv.josuerubio.com/">
                 <img src="https://i.postimg.cc/Cx6JL9KL/josurubio-web.png" width="200">
             </a>
         </td>
         <td>
-            <a target="_blank" href="https://dnd-bazar.herokuapp.com/">
+            <a href="https://dnd-bazar.herokuapp.com/">
                 <img src="https://i.postimg.cc/1znBgMg0/dndbazar-web.png" width="200">
             </a>
         </td>           
         <td>
-            <a target="_blank" href="http://info.cristinamonper.es/">
+            <a href="http://info.cristinamonper.es/">
                 <img src="https://i.postimg.cc/cHfchHBr/crismoner-web.png" width="200">
             </a>
         </td>
         <td>
-            <a target="_blank" href="https://wordofsteel.com/">
+            <a href="https://wordofsteel.com/">
                 <img src="https://i.postimg.cc/pdwZK88w/wordofsteel-web.png" width="200">
             </a>
         </td>                  
