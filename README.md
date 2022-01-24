@@ -38,7 +38,7 @@ Young and enthusiast person with great management abilities, making a carrer as 
             <td>CV Web</td>
             <td>D&D Bazar</td>           
             <td>Actress Web</td>
-            <td>Word Of Steel</td>
+            <!-- <td>Word Of Steel</td> -->
         </tr>
     </thead>
     <tr>
