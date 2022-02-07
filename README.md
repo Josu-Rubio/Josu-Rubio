@@ -57,10 +57,10 @@ Young and enthusiast person with great management abilities, making a carrer as 
                 <img src="https://i.postimg.cc/cHfchHBr/crismoner-web.png" width="200">
             </a>
         </td>
-        <!-- <td>
+        <td>
             <a href="https://wordofsteel.com/">
                 <img src="https://i.postimg.cc/pdwZK88w/wordofsteel-web.png" width="200">
             </a>
-        </td>                   -->
+        </td>                  
     </tr>
 </table>
